@@ -1,0 +1,6 @@
+{
+  "name": "StudySphere - Student Learning Portal",
+  "description": "A personalized, branch-aware engineering learning portal with dynamic subject curriculums, programming modules, peer doubts, notes, papers, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
